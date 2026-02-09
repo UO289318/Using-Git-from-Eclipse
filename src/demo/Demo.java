@@ -13,5 +13,6 @@ public class Demo {
 		System.out.println("Cambio en master");
 		System.out.println("Cambio1 para rebase");
 		System.out.println("Cambio2 para rebase");
+		System.out.println("Cambio3 para rebase");
 	}
 }
